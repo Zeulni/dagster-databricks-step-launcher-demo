@@ -59,10 +59,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 📞 Contact
 
-- Tobias Zeulner - t.zeulner@reply.de
-- David Weber - da.weber@reply.de
-- Döme Lörinczy - d.loerinczy@reply.de
-
-Machine Learning Reply,
-Luise-Ullrich Str 14,
-80636 Munich
+- Tobias Zeulner - tobias.zeulner@tum.de
